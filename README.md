@@ -1,8 +1,8 @@
 # zephyr (In progress)
 
- Vaccination tracker service inspired by e-VAX 2.0 and DOMES Agenda:
+ Vaccination tracker service inspired by e-VAX and DOMES Agenda:
 
-* **Patient Administration :** : Handle patient registration as well as there vaccination records. 
+* **Patient Administration :** Handle patient registration as well as there vaccination records. 
    
 - **Vaccine Administration :** Logs a vaccination event while atomically validating and decrementing available inventory stock.
     
